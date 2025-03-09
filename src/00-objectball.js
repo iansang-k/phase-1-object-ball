@@ -192,6 +192,6 @@ function mostPointsScored() {
         topPlayer = player;
       }
     }
+    return topPlayer;
   }
-  return topPlayer;
 }
